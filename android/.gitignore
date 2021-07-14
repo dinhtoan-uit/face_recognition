@@ -1,0 +1,26 @@
+.idea
+.gradle
+
+site/
+.factorypath
+.gradletasknamecache
+.DS_Store
+.checkstyle
+/application.yml
+/application.properties
+asciidoctor.css
+atlassian-ide-plugin.xml
+bin/
+build/
+dump.rdb
+out
+spring-shell.log
+target/
+test-output
+
+# Eclipse artifacts, including WTP generated manifests
+.classpath
+.project
+.settings/
+/build
+/build/
